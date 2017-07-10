@@ -6,7 +6,7 @@ import matplotlib.mlab as mlab
 import matplotlib.pyplot as plt
 import scipy.ndimage as ndimage
 from scipy.interpolate import interp2d
-
+# set parameter
 
 xmin = 0.0 #x limit
 xmax = 120.0 # x limit
